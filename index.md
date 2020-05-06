@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Basic course of Git
 
-I'm glad you are here. I plan to talk about ...
+* ATOM : https://flight-manual.atom.io/
+* Resume template : https://github.com/jglovier/resume-template
